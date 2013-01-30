@@ -7,21 +7,21 @@
     <IconStyle>
       <Icon>
           <!-- http://mapicons.nicolasmollet.com/markers/health-education/education/university/ -->
-          <href>img/university.png</href>
+          <href>static/icons/university.png</href>
       </Icon>
     </IconStyle>
   </Style>
   <Style id="entrance">
     <IconStyle>
       <Icon>
-          <href>img/entrance.png</href>
+          <href>static/icons/entrance.png</href>
       </Icon>
     </IconStyle>
   </Style>
   <Style id="comment-map-icon">
     <IconStyle>
       <Icon>
-          <href>img/comment-map-icon.png</href>
+          <href>static/icons/comment-map-icon.png</href>
       </Icon>
     </IconStyle>
   </Style>
@@ -29,7 +29,7 @@
     <IconStyle>
       <Icon>
           <!-- http://mapicons.nicolasmollet.com/markers/transportation/other-types-of-transportation/train/ -->
-        <href>img/train.png</href>
+        <href>static/icons/train.png</href>
       </Icon>
     </IconStyle>
   </Style>
@@ -37,7 +37,7 @@
     <IconStyle>
       <Icon>
           <!-- http://mapicons.nicolasmollet.com/markers/transportation/road-transportation/bus/ -->
-          <href>img/bus.png</href>
+          <href>static/icons/bus.png</href>
       </Icon>
     </IconStyle>
   </Style>
@@ -45,7 +45,7 @@
     <IconStyle>
       <Icon>
           <!-- http://mapicons.nicolasmollet.com/markers/transportation/other-types-of-transportation/tram/ -->
-        <href>img/tramway.png</href>
+        <href>static/icons/tramway.png</href>
       </Icon>
     </IconStyle>
   </Style>
@@ -53,7 +53,7 @@
     <IconStyle>
       <Icon>
           <!-- http://mapicons.nicolasmollet.com/markers/transportation/aerial-transportation/airport/ -->
-        <href>img/airport.png</href>
+        <href>static/icons/airport.png</href>
       </Icon>
     </IconStyle>
   </Style>
@@ -61,7 +61,7 @@
     <IconStyle>
       <Icon>
           <!-- http://mapicons.nicolasmollet.com/markers/tourism/place-to-see/sight/ -->
-          <href>img/sight-2.png</href>
+          <href>static/icons/sight-2.png</href>
       </Icon>
     </IconStyle>
   </Style>
@@ -69,7 +69,7 @@
     <IconStyle>
       <Icon>
           <!-- http://mapicons.nicolasmollet.com/markers/tourism/old-defensive-buildings/castle/ -->
-          <href>img/castle-2.png</href>
+          <href>static/icons/castle-2.png</href>
       </Icon>
     </IconStyle>
   </Style>
@@ -77,7 +77,7 @@
     <IconStyle>
       <Icon>
           <!-- http://mapicons.nicolasmollet.com/markers/tourism/cult-religion/cathedral/ -->
-          <href>img/cathedral.png</href>
+          <href>static/icons/cathedral.png</href>
       </Icon>
     </IconStyle>
   </Style>
@@ -85,7 +85,7 @@
     <IconStyle>
       <Icon>
           <!-- http://mapicons.nicolasmollet.com/markers/restaurants-bars/restaurants/restaurant/ -->
-        <href>img/restaurant.png</href>
+        <href>static/icons/restaurant.png</href>
       </Icon>
     </IconStyle>
   </Style>
@@ -93,7 +93,7 @@
     <IconStyle>
       <Icon>
           <!-- http://mapicons.nicolasmollet.com/markers/stores/food-drink/grocery/ -->
-          <href>img/grocery.png</href>
+          <href>static/icons/grocery.png</href>
       </Icon>
     </IconStyle>
   </Style>
@@ -101,7 +101,7 @@
     <IconStyle>
       <Icon>
           <!-- http://mapicons.nicolasmollet.com/markers/restaurants-bars/bars/coffee/ -->
-          <href>img/coffee.png</href>
+          <href>static/icons/coffee.png</href>
       </Icon>
     </IconStyle>
   </Style>
@@ -109,7 +109,7 @@
     <IconStyle>
       <Icon>
           <!-- http://mapicons.nicolasmollet.com/markers/restaurants-bars/restaurants/pizzaria/ -->
-          <href>img/pizzaria.png</href>
+          <href>static/icons/pizzaria.png</href>
       </Icon>
     </IconStyle>
   </Style>
@@ -117,7 +117,7 @@
     <IconStyle>
       <Icon>
           <!-- http://mapicons.nicolasmollet.com/markers/tourism/park/ -->
-          <href>img/urbanpark.png</href>
+          <href>static/icons/urbanpark.png</href>
       </Icon>
     </IconStyle>
   </Style>
@@ -125,7 +125,7 @@
     <IconStyle>
       <Icon>
           <!-- http://mapicons.nicolasmollet.com/markers/restaurants-bars/hotels/lodging/ -->
-          <href>img/lodging_4stars.png</href>
+          <href>static/icons/lodging_4stars.png</href>
       </Icon>
     </IconStyle>
   </Style>
@@ -133,7 +133,7 @@
     <IconStyle>
       <Icon>
           <!-- http://mapicons.nicolasmollet.com/markers/restaurants-bars/hotels/lodging/ -->
-          <href>img/lodging_3stars.png</href>
+          <href>static/icons/lodging_3stars.png</href>
       </Icon>
     </IconStyle>
   </Style>
@@ -141,7 +141,7 @@
     <IconStyle>
       <Icon>
           <!-- http://mapicons.nicolasmollet.com/markers/restaurants-bars/bars/bar/ -->
-          <href>img/bar.png</href>
+          <href>static/icons/bar.png</href>
       </Icon>
     </IconStyle>
   </Style>
@@ -149,7 +149,7 @@
     <IconStyle>
       <Icon>
           <!-- http://mapicons.nicolasmollet.com/markers/restaurants-bars/restaurants/steakhouse/ -->
-        <href>img/steakhouse.png</href>
+        <href>static/icons/steakhouse.png</href>
       </Icon>
     </IconStyle>
   </Style>
@@ -157,7 +157,7 @@
     <IconStyle>
       <Icon>
           <!-- http://mapicons.nicolasmollet.com/markers/restaurants-bars/restaurants/fast-food/ -->
-        <href>img/fastfood.png</href>
+        <href>static/icons/fastfood.png</href>
       </Icon>
     </IconStyle>
   </Style>
@@ -165,7 +165,7 @@
     <IconStyle>
       <Icon>
           <!-- http://mapicons.nicolasmollet.com/markers/health-education/health/hospital/ -->
-          <href>img/hospital-building.png</href>
+          <href>static/icons/hospital-building.png</href>
       </Icon>
     </IconStyle>
   </Style>
@@ -173,7 +173,7 @@
     <IconStyle>
       <Icon>
           <!-- http://mapicons.nicolasmollet.com/markers/offices/real-estate/office-building/ -->
-        <href>img/office-building.png</href>
+        <href>static/icons/office-building.png</href>
       </Icon>
     </IconStyle>
   </Style>
@@ -181,7 +181,7 @@
     <IconStyle>
       <Icon>
           <!-- http://mapicons.nicolasmollet.com/markers/tourism/cult-religion/church/ -->
-          <href>img/church-2.png</href>
+          <href>static/icons/church-2.png</href>
       </Icon>
     </IconStyle>
   </Style>
@@ -189,7 +189,7 @@
     <IconStyle>
       <Icon>
           <!-- http://mapicons.nicolasmollet.com/markers/tourism/place-to-see/city-square/ -->
-          <href>img/citysquare.png</href>
+          <href>static/icons/citysquare.png</href>
       </Icon>
     </IconStyle>
   </Style>
@@ -197,7 +197,7 @@
     <IconStyle>
       <Icon>
           <!-- http://mapicons.nicolasmollet.com/markers/tourism/old-defensive-buildings/tower/ -->
-        <href>img/tower.png</href>
+        <href>static/icons/tower.png</href>
       </Icon>
     </IconStyle>
   </Style>
@@ -205,7 +205,7 @@
     <IconStyle>
       <Icon>
           <!-- http://mapicons.nicolasmollet.com/markers/culture-entertainment/culture/theater/ -->
-          <href>img/theater.png</href>
+          <href>static/icons/theater.png</href>
       </Icon>
     </IconStyle>
   </Style>

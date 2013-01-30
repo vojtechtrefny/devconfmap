@@ -25,7 +25,7 @@ function init(){
         projection: map.displayProjection,
         strategies: [new OpenLayers.Strategy.Fixed()],
         protocol: new OpenLayers.Protocol.HTTP({
-            url: "RedHatDeveloperConference.kml",
+            url: "static/RedHatDeveloperConference.kml",
             format: new OpenLayers.Format.KML({
                 extractStyles: true,
                 extractAttributes: true
