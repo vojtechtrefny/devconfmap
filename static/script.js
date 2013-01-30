@@ -45,6 +45,7 @@ function init(){
     map.addControl(select);
     select.activate();   
 
+    map.addControl(new OpenLayers.Control.Attribution());
     map.addControl(new OpenLayers.Control.LayerSwitcher());
 
     var point = new OpenLayers.LonLat(lon, lat);
