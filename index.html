@@ -1,29 +1,18 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
-    <!-- <script src='http://maps.google.com/maps?file=api&amp;v=2&amp;key=AIzaSyAPfuFofeNw7v8LvOfWJXbupqe6OWLZ2mc'></script> -->
-    <meta name="apple-mobile-web-app-capable" content="yes">
-    <title>Red Hat Developer Conference: Points of Interest</title>
-    <link rel="stylesheet" href="static/theme/default/style.css" type="text/css">
-    <link rel="stylesheet" href="static/style.css" type="text/css">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width">
+        <title>Red Hat Developer Conference: Points of Interest</title>
 
-    <style type="text/css">
-        html, body {
-            height: 100%;
-        }
-        #map {
-            width:650px;
-            height:550px;
-            border: 1px solid black;
-        }
-    </style>
-    <script src="static/OpenLayers.js"></script>
-    <script src="static/script.js"></script>
-  </head>
-  <body onload="init()">
-    <div id="map" class="smallmap"></div>
-    <p>Using <a href="http://mapicons.nicolasmollet.com">Maps Icons Collection</a> CC BY SA 3.0.</p>
-  </body>
+        <link rel="stylesheet" href="static/normalize.min.css">
+        <link rel="stylesheet" href="static/theme/default/style.css">
+        <link rel="stylesheet" href="static/style.css">
+    </head>
+    <body onload="init()">
+        <div id="map" class="smallmap"></div>
+
+        <script src="static/OpenLayers.js"></script>
+        <script src="static/script.js"></script>
+    </body>
 </html>
