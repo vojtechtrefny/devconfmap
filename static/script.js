@@ -1,7 +1,7 @@
 var lon = 16.599612; //16.599398;
 var lat = 49.210140; //49.199878;
 var zoom = 17;
-var mq_attribution_text = 'Data, imagery and map information provided by <a href="http://www.mapquest.com/">MapQuest</a>, <a href="http://www.openstreetmap.org/">Open Street Map</a> and contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>.';
+var attribution_text = 'Data, imagery and map information provided by <a href="http://www.mapquest.com/">MapQuest</a>, <a href="http://mapicons.nicolasmollet.com">Maps Icons Collection</a>, <a href="http://www.openstreetmap.org/">Open Street Map</a> and contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>.';
 
 var map, select;
 
@@ -18,7 +18,7 @@ function init(){
                     "http://otile2.mqcdn.com/tiles/1.0.0/map/${z}/${x}/${y}.jpg",
                     "http://otile3.mqcdn.com/tiles/1.0.0/map/${z}/${x}/${y}.jpg",
                     "http://otile4.mqcdn.com/tiles/1.0.0/map/${z}/${x}/${y}.jpg"];
-    var baseOSM = new OpenLayers.Layer.OSM("MapQuest-OSM Tiles", arrayOSM, {'attribution': mq_attribution_text});
+    var baseOSM = new OpenLayers.Layer.OSM("MapQuest-OSM Tiles", arrayOSM, {'attribution': attribution_text});
     var mapnik = new OpenLayers.Layer.OSM("OpenStreetMap (Mapnik)");
     var gmap = new OpenLayers.Layer.Google("Google", {sphericalMercator:true});
     var poi = new OpenLayers.Layer.Vector("Points of Interest", {
