@@ -209,6 +209,38 @@
       </Icon>
     </IconStyle>
   </Style>
+  <Style id="dancinghall">
+    <IconStyle>
+      <Icon>
+          <!-- http://mapicons.nicolasmollet.com/markers/culture-entertainment/culture/music/dancing-hall/ -->
+          <href>static/icons/dancinghall.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="wordheritage">
+    <IconStyle>
+      <Icon>
+          <!-- http://mapicons.nicolasmollet.com/markers/tourism/place-to-see/world-heritage-site/ -->
+          <href>static/icons/worldheritagesite.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="museumart">
+    <IconStyle>
+      <Icon>
+          <!-- http://mapicons.nicolasmollet.com/markers/culture-entertainment/culture/museums/art-museum/ -->
+          <href>static/icons/museum_art.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="anthropo">
+    <IconStyle>
+      <Icon>
+          <!-- http://mapicons.nicolasmollet.com/markers/culture-entertainment/culture/museums/museum-of-anthropology/ -->
+          <href>static/icons/anthropo.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
   <Placemark>
     <name>Faculty of Informatics</name>
     <description><![CDATA[<div dir="ltr">The place where the<b> Red Hat Developer Conference 2012</b> takes place.<br><br>Botanická 68a, Brno</div>]]></description>
@@ -219,7 +251,7 @@
   </Placemark>
   <Placemark>
     <name>Entrance to FI MUNI</name>
-    <description><![CDATA[<div dir="ltr">Entrance to the Faculty of Informatics Masaryk University, building where the conference takes place</div>]]></description>
+    <description><![CDATA[<div dir="ltr">Entrance to the Faculty of Informatics Masaryk University, building where the conference takes place </br><b>Photo of entrance:</b></br><img src="static/photos/current-entrance.jpg"/></br>Note for people who attented conference in the previous years: the entrance to the building has been changed due to reconstruction of the FI MUNI building, see the new one in the above photo. It is just on the opposite side of the building.</div>]]></description>
     <styleUrl>#entrance</styleUrl>
     <Point>
         <coordinates>16.599732,49.210221</coordinates>
@@ -282,7 +314,7 @@
     </Point>
   </Placemark>
   <Placemark>
-    <name>Cathedral of St Peter and Paul</name>
+    <name>Cathedral of St Peter and Paul (aka Petrov)</name>
     <description><![CDATA[<div dir="ltr">Outstanding cathedral, gothic style from outside, baroque interior. I recommend to visit it and to also to visit the tower of this cathedral, entrance from right side, brilliant views from there.<br>&nbsp;<br><a href="http://en.wikipedia.org/wiki/Cathedral_of_St._Peter_and_Paul,_Brno" target="_blank">link</a></div>]]></description>
     <styleUrl>#cathedral</styleUrl>
     <Point>
@@ -523,7 +555,7 @@
   </Placemark>
   <Placemark>
     <name>Red Hat Czech - Brno office</name>
-    <description><![CDATA[<div><span style="font-family:arial;font-size:10pt">The&nbsp;</span><font face="arial" size="2">headquarters of the Red Hat Czech, the organizer of Red Hat Developer Conference.</font></div><div><font face="arial" size="2"><br></font></div><div style="font-family:arial;font-size:10pt"><span style="font-size:10pt">You can get here by public transportation, you can take either tram number </span><b style="font-size:10pt">12 or 13</b><span style="font-size:10pt">, both for example from </span><b style="font-size:10pt">Main train station </b><span style="font-size:10pt">and get off at Cervinkova tram station.</span></div>]]></description>
+    <description><![CDATA[<div><span style="font-family:arial;font-size:10pt">The&nbsp;</span><font face="arial" size="2">headquarters of the Red Hat Czech, the organizer of Red Hat Developer Conference.</font></div><div><font face="arial" size="2"><br></font></div><div style="font-family:arial;font-size:10pt"><span style="font-size:10pt">You can get here by public transportation, you can take tram number </span><b style="font-size:10pt">12</b><span style="font-size:10pt">, for example from </span><b style="font-size:10pt">Main train station </b><span style="font-size:10pt">and get off at Cervinkova tram station.</span></div>]]></description>
     <styleUrl>#office</styleUrl>
     <Point>
       <coordinates>16.581663,49.226131,0.000000</coordinates>
@@ -719,6 +751,56 @@
     <styleUrl>#urbanpark</styleUrl>
     <Point>
       <coordinates>16.601801,49.203587,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Fleda club</name>
+    <description><![CDATA[<div dir="ltr">Music bar and dance club. Its <a href="http://fleda.cz/">web site</a>.</div>]]></description>
+    <styleUrl>#dancinghall</styleUrl>
+    <Point>
+      <coordinates>16.603281,49.209869,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Villa Tugendhat</name>
+    <description><![CDATA[<div dir="ltr">The Villa of Greta and Fritz Tugendhat from the years 1929-1930, designed by the architect Ludwig Mies van der Rohe, is an installed monument to Modern architecture. It is the only examplar of Modern architecture in the Czech Republic recorded on the UNESCO List of World Cultural Heritage.<br/>Open to the public from <b>Tuesday to Sunday from 10:00 to 18:00</b> <br/>Its <a href="http://www.tugendhat.eu/en/">web site</a>. <br/><img src="static/photos/tugendhat_villa.jpg"/></div>]]></description>
+    <styleUrl>#wordheritage</styleUrl>
+    <Point>
+      <coordinates>16.616001,49.207243,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Labyrinth under Vegetable Market</name>
+    <description><![CDATA[<div dir="ltr">Few towns in the Czech Republic can boast a phenomenon as rare as the complex maze of underground corridors, tunnels, crypts and cellars. The project of opening the underground to the public is divided into several phases. The first attraction was the Mintmaster’s Cellar in Dominican Square opened in 2010. The second one was the large Labyrinth under Vegetable Market opened on 1 April 2011. And last but not least, one of the most interesting recent discoveries – the skeletal remains of approximately fifty thousand people found in the ossuary under St. James’ Church – will be presented to the public in 2012. <br />Its <a href="http://www.ticbrno.cz/podzemi">web site</a>.</div>]]></description>
+    <styleUrl>#wordheritage</styleUrl>
+    <Point>
+      <coordinates>16.609487,49.192839,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>The Moravian Museum</name>
+    <description><![CDATA[<div dir="ltr">Today, the museum collections include several million objects, representing valuable scientific material from the fields of literature, music and theatre, geology, mineralogy, botany, zoology and entomology. Fifteen specialised and several service departments work within the museum.<br />Its <a href="http://www.mzm.cz/en/about-us/">web site</a>.</div>]]></description>
+    <styleUrl>#museumart</styleUrl>
+    <Point>
+      <coordinates>16.609,49.191919,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Anthropos Pavilion</name>
+    <description><![CDATA[<div dir="ltr">The permanent exhibition on the oldest history of the settlement in Moravia as well as on the whole European continent consists of three parts created by our outstanding specialists: "Moravian Hunters and Gatherers", "The oldest Art of Europe" and "Palaeolithic Technologies". The second part brings up-to-date discoveries concerning the evolution of man and the beginnings of his culture: "Genetics in the Evolution of Man", "The Story of Mankind" complemented with the presentation of the behaviour of man's next relatives – primates, shown in the section "Cousins or Brothers? – Ethology of Primates". <br />Its <a href="http://www.mzm.cz/en/pavilonanthropos/">web site</a>.</div>]]></description>
+    <styleUrl>#anthropo</styleUrl>
+    <Point>
+      <coordinates>16.567056,49.19216,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Capuchin Crypt and Church</name>
+    <description><![CDATA[<div dir="ltr">The church is situated on the Capuchin Square near the Cabbage Market. Next to the church stands the Capuchin Monastery. The front side of the church is decorated with the Baroque sculptures by Jan Adam Nessman from 1765.
+The most interesting place is the Capuchin crypt which is located beneath the church. Due to the good geological structure of soil and system of air-holes, it was possible to mummify the corpses which have been preserved in the underground of the church to the present-day. Except for the members of the Capuchin Order, the builders Ondřej and Jan Křtitel Ern and baron Franz von der Trenck (a commander of the Pandur and Špilberk prisoner) are buried there.
+Visitors can attend a permanent exhibition whose part is a tour of the Capuchin crypt with mummies. <br />Its <a href="http://www.brno.me/sights.html#capuchin">web site</a>.</div>]]></description>
+    <styleUrl>#church</styleUrl>
+    <Point>
+      <coordinates>16.609628,49.191305,0.000000</coordinates>
     </Point>
   </Placemark>
 </Document>
