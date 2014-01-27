@@ -2,7 +2,7 @@
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
   <name>Red Hat Developer Conference</name>
-  <description><![CDATA[List of pubs, restaurants, important places for transportation and other places worth to see. Created for Red Hat Developer Conference 2013]]></description>
+  <description><![CDATA[List of pubs, restaurants, important places for transportation and other places worth to see. Created for Red Hat Developer Conference 2014]]></description>
   <Style id="university">
     <IconStyle>
       <Icon>
@@ -243,7 +243,7 @@
   </Style>
   <Placemark>
     <name>Faculty of Informatics</name>
-    <description><![CDATA[<div dir="ltr">The place where the<b> Red Hat Developer Conference 2012</b> takes place.<br><br>Botanická 68a, Brno</div>]]></description>
+    <description><![CDATA[<div dir="ltr">The place where the<b> Red Hat Developer Conference 2014</b> takes place.<br><br>Botanická 68a, Brno</div>]]></description>
     <styleUrl>#university</styleUrl>
     <Point>
       <coordinates>16.599245,49.210018,0.000000</coordinates>
@@ -771,7 +771,7 @@
   </Placemark>
   <Placemark>
     <name>Labyrinth under Vegetable Market</name>
-    <description><![CDATA[<div dir="ltr">Few towns in the Czech Republic can boast a phenomenon as rare as the complex maze of underground corridors, tunnels, crypts and cellars. The project of opening the underground to the public is divided into several phases. The first attraction was the Mintmaster’s Cellar in Dominican Square opened in 2010. The second one was the large Labyrinth under Vegetable Market opened on 1 April 2011. And last but not least, one of the most interesting recent discoveries – the skeletal remains of approximately fifty thousand people found in the ossuary under St. James’ Church – will be presented to the public in 2012. <br />Its <a href="http://www.ticbrno.cz/podzemi">web site</a>.</div>]]></description>
+    <description><![CDATA[<div dir="ltr">Few towns in the Czech Republic can boast a phenomenon as rare as the complex maze of underground corridors, tunnels, crypts and cellars. The project of opening the underground to the public is divided into several phases. The first attraction was the Mintmaster’s Cellar in Dominican Square opened in 2010. The second one was the large Labyrinth under Vegetable Market opened on 1 April 2011. And last but not least, one of the most interesting recent discoveries – the skeletal remains of approximately fifty thousand people found in the ossuary under St. James’ Church – will be presented to the public in 2014. <br />Its <a href="http://www.ticbrno.cz/podzemi">web site</a>.</div>]]></description>
     <styleUrl>#wordheritage</styleUrl>
     <Point>
       <coordinates>16.609487,49.192839,0.000000</coordinates>
