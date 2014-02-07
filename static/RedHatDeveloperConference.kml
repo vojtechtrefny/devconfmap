@@ -803,5 +803,13 @@ Visitors can attend a permanent exhibition whose part is a tour of the Capuchin 
       <coordinates>16.609628,49.191305,0.000000</coordinates>
     </Point>
   </Placemark>
+  <Placemark>
+    <name>Pub U Dřeváka</name>
+    <description><![CDATA[<div dir="ltr">Non-smoking pub concentrating primarily on a quality Czech cuisine in a modern style. Tasty food and beer tapped to 'surface'.</div><br>Opening hours:&nbsp;</div><div dir="ltr">Monday - Thursday: 11:00 - 24:00</div><div dir="ltr">Friday - Saturday: 11:00 - 1:00</div><div dir="ltr">Sunday: 11:00 - 24:00</div><div><br><a href="http://www.udrevaka.com/" target="_blank">web page</a></div>]]></description>
+    <styleUrl>#bar</styleUrl>
+    <Point>
+      <coordinates>16.6008944,49.2090944,0.000000</coordinates>
+    </Point>
+  </Placemark>
 </Document>
 </kml>
