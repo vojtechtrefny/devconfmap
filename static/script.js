@@ -1,5 +1,5 @@
-var lon = 16.599612; //16.599398;
-var lat = 49.210140; //49.199878;
+var lon = 16.597122; //16.599398;
+var lat = 49.226544; //49.199878;
 var zoom = 17;
 var attribution_text = 'Data, imagery and map information provided by <a href="http://www.mapquest.com/">MapQuest</a>, <a href="http://mapicons.nicolasmollet.com">Maps Icons Collection</a>, <a href="http://www.openstreetmap.org/">Open Street Map</a> and contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>.';
 

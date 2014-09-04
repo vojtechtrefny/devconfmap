@@ -2,7 +2,7 @@
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
   <name>Red Hat Developer Conference</name>
-  <description><![CDATA[List of pubs, restaurants, important places for transportation and other places worth to see. Created for Red Hat Developer Conference 2014]]></description>
+  <description><![CDATA[List of pubs, restaurants, important places for transportation and other places worth to see. Created for Red Hat Developer Conference 2015]]></description>
   <Style id="university">
     <IconStyle>
       <Icon>
@@ -242,32 +242,65 @@
     </IconStyle>
   </Style>
   <Placemark>
-    <name>Faculty of Informatics</name>
-    <description><![CDATA[<div dir="ltr">The place where the<b> Red Hat Developer Conference 2014</b> takes place.<br><br>Botanická 68a, Brno</div>]]></description>
+    <name>Faculty of Information Technology</name>
+    <description><![CDATA[<div dir="ltr">The place where the<b> Red Hat Developer Conference 2015</b> takes place.<br><br>Božetěchova 1/2, 612 00 Brno-Královo Pole</div>]]></description>
     <styleUrl>#university</styleUrl>
     <Point>
-      <coordinates>16.599245,49.210018,0.000000</coordinates>
+      <coordinates>16.597122,49.226544,0.000000</coordinates>
     </Point>
   </Placemark>
+  
+  
   <Placemark>
-    <name>Entrance to FI MUNI</name>
-    <description><![CDATA[<div dir="ltr">Entrance to the Faculty of Informatics Masaryk University, building where the conference takes place </br><b>Photo of entrance:</b></br><img src="static/photos/current-entrance.jpg"/></br>Note for people who attented conference in the previous years: the entrance to the building has been changed due to reconstruction of the FI MUNI building, see the new one in the above photo. It is just on the opposite side of the building.</div>]]></description>
+    <name>Entrance to FIT VUT</name>
+    <description><![CDATA[<div dir="ltr">Entrance to the Faculty of Information Technology, building where the conference takes place </div>]]></description>
     <styleUrl>#entrance</styleUrl>
     <Point>
-        <coordinates>16.599732,49.210221</coordinates>
+      <coordinates>16.596239,49.226386,0.000000</coordinates>
     </Point>
   </Placemark>
+
+  
   <Placemark>
     <name>Presentations rooms</name>
     <description><![CDATA[<div dir="ltr">The lecture rooms of faculty, where conference presentations will be given, need to enter through the main entrance.</div>]]></description>
     <styleUrl>#comment-map-icon</styleUrl>
     <Point>
-      <coordinates>16.599611,49.210140,0.000000</coordinates>
+      <coordinates>16.596837,49.226306,0.000000</coordinates>
     </Point>
   </Placemark>
+  
+  <Placemark>
+    <name>Ventana Café</name>
+    <description><![CDATA[<div dir="ltr">Nice non smoking cafe.</div><div><a href="http://www.ventanacafe.cz/" target="_blank">website</a></div><div><br>&nbsp;</div><div>Opening hours:</div><div>Monday - Friday: 7:30 - 22:00</div><div>Saturday: 15:00 - 22:00</div><div>Sunday: 13:00 - 16:00</div>]]></description>
+    <styleUrl>#cafe</styleUrl>
+    <Point>
+      <coordinates>16.5959997,49.2264000,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name>Semilasso bus station</name>
+    <description><![CDATA[<div dir="ltr">Bus number 44 from main bus station stops here.</div>]]></description>
+    <styleUrl>#bus</styleUrl>
+    <Point>
+      <coordinates>16.5932714,49.2281525,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name>Semilasso tram station</name>
+    <description><![CDATA[<div dir="ltr">Tram number 1 from main train station stops here.</div>]]></description>
+    <styleUrl>#tramway</styleUrl>
+    <Point>
+      <coordinates>16.5927217,49.2273931,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  
+  
   <Placemark>
     <name>Main train station</name>
-    <description><![CDATA[The best way to get to the conference from here, is to take a&nbsp;<b>tram number 1 </b>and to get off at<b>&nbsp;</b>the <b>Hrncirska </b>tram station, from where you can walk(approximately 5 min) to the Dev Conf&nbsp;<div><br>&nbsp;</div><div>This mark is placed approximately at the place from where this tram is leaving. You can get tram tickets from ticket machines or in case you do not have change you can ask for some in near&nbsp;newsstands.</div>]]></description>
+    <description><![CDATA[The best way to get to the conference from here, is to take a&nbsp;<b>tram number 1 </b>and to get off at<b>&nbsp;</b>the <b>Semilasso </b>tram station, from where you can walk(approximately 5 min) to the Dev Conf&nbsp;<div><br>&nbsp;</div><div>This mark is placed approximately at the place from where this tram is leaving. You can get tram tickets from ticket machines or in case you do not have change you can ask for some in near&nbsp;newsstands.</div>]]></description>
     <styleUrl>#train</styleUrl>
     <Point>
       <coordinates>16.612514,49.191368,0.000000</coordinates>
@@ -275,18 +308,18 @@
   </Placemark>
   <Placemark>
     <name>Main bus station</name>
-    <description><![CDATA[<div dir="ltr">You have two options to get to conference by public transportation from here:<br><b>1.</b> by tram number 12., from Zvonarka tram station, which is just beside this place on the right, get off at Klusackova tram station and to walk(10 min approximately) to Faculty of Informatics.<br><b>2. </b>walk (15 min approximately) to the Main train station, and take tram number 1.(see bus mark there)</div>]]></description>
+    <description><![CDATA[<div dir="ltr">You have two options to get to conference by public transportation from here:<br><b>1.</b> by bus number 44., from Zvonarka bus station, which is just beside this place on the right, get off at Semilasso bus station.<br><b>2. </b>walk (15 min approximately) to the Main train station, and take tram number 1.(see bus mark there)</div>]]></description>
     <styleUrl>#bus</styleUrl>
     <Point>
       <coordinates>16.616392,49.185833,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
-    <name>Zvonarka tram station</name>
-    <description><![CDATA[<div dir="ltr">The correct station from where you can take tram number 12.(see main bus station mark)</div>]]></description>
-    <styleUrl>#tramway</styleUrl>
+    <name>Zvonarka bus station</name>
+    <description><![CDATA[<div dir="ltr">The correct station from where you can take bus number 44.(see main bus station mark)</div>]]></description>
+    <styleUrl>#bus</styleUrl>
     <Point>
-      <coordinates>16.618271,49.187622,0.000000</coordinates>
+      <coordinates>16.6191667,49.1870750,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -321,84 +354,13 @@
       <coordinates>16.607208,49.191017,0.000000</coordinates>
     </Point>
   </Placemark>
-  <Placemark>
-    <name>Zelena kocka restaurant</name>
-    <description><![CDATA[<div dir="ltr">Restaurant with good beer too.<br><a href="http://www.zelenakocka.cz/galerie-grand.php" target="_blank">Some photos</a><br>Beer served: Pilsner Urquell, Dalesicke Pivo<br>Opening hours:&nbsp;</div><div dir="ltr">Monday - Saturday: 11:00 - 24:00</div><div dir="ltr">Sunday: 12:00 - 23:00</div>]]></description>
-    <styleUrl>#restaurant</styleUrl>
-    <Point>
-      <coordinates>16.592402,49.211781,0.000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Billa</name>
-    <description><![CDATA[Billa supermarket, grocery shopping mall]]></description>
-    <styleUrl>#grocery</styleUrl>
-    <Point>
-      <coordinates>16.593475,49.210049,0.000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Nika sweetshop</name>
-    <description><![CDATA[Sweetshop<div><a href="http://www.nikabrno.ic.cz/cukrarna/1/fotogalerie.php" target="_blank">photos</a></div><div>&nbsp;</div><div>Opening hours:</div><div>Monday - Friday: 09:00-20:00</div><div>Saturday: closed</div><div>Sunday: 14:00 - 18:00</div>]]></description>
-    <styleUrl>#coffee</styleUrl>
-    <Point>
-      <coordinates>16.596704,49.211521,0.000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Cafe bar u Viliho</name>
-    <description><![CDATA[Cafe and pub]]></description>
-    <styleUrl>#coffee</styleUrl>
-    <Point>
-      <coordinates>16.597584,49.210281,0.000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Magistr - smoking Brewpub</name>
-    <description><![CDATA[<div><span style="font-size:10pt">Pub/restaurant with his own brewery. More suitable for having a quite good beer with option to smoke, another advantage is that it is 1 minute from Faculty of Informatics. For tasty food visit rather near restaurants: Selepova No 1, Zelena Kocka, Comodo Restaurant or U bileho baranka which all are 12 minutes walk max from here.</span></div><div><a href="http://www.pivovarmagistr.cz/" target="_blank">photos</a></div><div><br>&nbsp;</div><div>Opening hours:</div><div>Monday - Sunday: 10:30 - 24:00</div>]]></description>
-    <styleUrl>#restaurant</styleUrl>
-    <Point>
-      <coordinates>16.600031,49.209591,0.000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Pizza Al Capone</name>
-    <description><![CDATA[Pizza<div>There is currently offer to have 2 pizzas + 1 for free. There is rich offer of pizzas and other hot meals.</div><div>Opening hours: 11:00 - 23:30</div><div>Hot meals till 23:00</div>]]></description>
-    <styleUrl>#pizzaria</styleUrl>
-    <Point>
-      <coordinates>16.601404,49.210338,0.000000</coordinates>
-    </Point>
-  </Placemark>
+  
   <Placemark>
     <name>Albert</name>
-    <description><![CDATA[Shopping mall, groceries drugstore<div><br>&nbsp;</div><div>opening hours:&nbsp;</div><div>Monday - Sunday: 07:00 - 20:00</div>]]></description>
+    <description><![CDATA[Shopping mall, groceries drugstore<div><br>&nbsp;</div><div>opening hours:&nbsp;</div><div>Monday - Sunday: 07:00 - 21:00</div>]]></description>
     <styleUrl>#grocery</styleUrl>
     <Point>
-      <coordinates>16.600782,49.210197,0.000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Inaris tearoom</name>
-    <description><![CDATA[Nice tearoom offering various kinds of tea.<div><a href="http://www.inaris.ic.cz/index.php?menu=3&amp;photo_category=1#output" target="_blank">photos</a></div><div><br>&nbsp;</div><div>Opening hours:</div><div>Monday - Sunday: 13:00 - 00:00</div>]]></description>
-    <styleUrl>#coffee</styleUrl>
-    <Point>
-      <coordinates>16.602203,49.210739,0.000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Aura restaurant</name>
-    <description><![CDATA[<div dir="ltr">Non smoking restaurant with rich offer of various food, vegetables too.<br><a href="http://www.aurabrno.cz/interier.php" target="_blank">photos</a><br><br>Opening hours:&nbsp;<br>Monday - Friday: 10:00 - 22:00</div>]]></description>
-    <styleUrl>#restaurant</styleUrl>
-    <Point>
-      <coordinates>16.601179,49.212566,0.000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Diva bara restaurant - mostly smoking</name>
-    <description><![CDATA[Restaurant - from 10:30 to 14:00 non smoking, <b>otherwise smoking</b><div><a href="http://www.restauracedivabara.cz/index.php?data=galerie&amp;path=home" target="_blank">photos</a></div><div>opening hours:&nbsp;</div><div>Monday - Friday: 10:30 - 23:30</div><div>Saturday: 11:00 - 23:30</div><div>Sunday: 11:00 - 22:00</div>]]></description>
-    <styleUrl>#restaurant</styleUrl>
-    <Point>
-      <coordinates>16.602724,49.209949,0.000000</coordinates>
+      <coordinates>16.5926806,49.2281286,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -418,32 +380,8 @@
     </Point>
   </Placemark>
   <Placemark>
-    <name>Shopping mall</name>
-    <description><![CDATA[<b>Tesco</b> shopping mall, which is open <b>24/7</b>.<div>To get here I recommend you to take again tram number 1. and to get off at station Kartouzska and to walk here, it is approximately 10 minutes max. You can get on tram number 1. for example at Hrncirska station which is marked at map as well(near Faculty of Informatics MU)</div>]]></description>
-    <styleUrl>#grocery</styleUrl>
-    <Point>
-      <coordinates>16.607895,49.216618,0.000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Hotel Avanti</name>
-    <description><![CDATA[Hotel Avanti.<div>As you can see, it is quite close to Faculty of &nbsp;Informatics (blue marks on map), so it is good to walk there(15 min max).</div><div><br>&nbsp;</div><div><a href="http://www.brno-hotel-avanti.eu/" target="_blank">web page</a></div>]]></description>
-    <styleUrl>#lodging_4stars</styleUrl>
-    <Point>
-      <coordinates>16.604706,49.212959,0.000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Hotel Bobycentrum</name>
-    <description><![CDATA[Hotel Bobycentrum, it is quite close to Faculty of Informatics, (max 20. minut)<div><br>&nbsp;</div><div><a href="http://www.bobycentrum.com/" target="_blank">web page</a></div>]]></description>
-    <styleUrl>#lodging_4stars</styleUrl>
-    <Point>
-      <coordinates>16.607948,49.212543,0.000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
     <name>Hotel Continental</name>
-    <description><![CDATA[<div dir="ltr"><b>Hotel Continental</b>, the best way to get to Developer Conference from here by public transportation is to take&nbsp;<b>trolley bus number 32</b>. from trolley station <b>Smetanova </b>(nearest station on main Kounicova street)<b>&nbsp;</b>and to get off at&nbsp;<b>Botanicka, </b>which is (2 min approximately) from Faculty of Informatics MUNI.</div>]]></description>
+    <description><![CDATA[<div dir="ltr"><b>Hotel Continental</b>, the best way to get to Developer Conference from here by public transportation is to take&nbsp;<b>tram number 1</b>. from tram station <b>Antonínská </b></div>]]></description>
     <styleUrl>#lodging_4stars</styleUrl>
     <Point>
       <coordinates>16.604462,49.200497,0.000000</coordinates>
@@ -451,36 +389,13 @@
   </Placemark>
   <Placemark>
     <name>Hotel Slovan</name>
-    <description><![CDATA[<b>Hotel Slovan</b>, you have two options to come to Conference from here, either take tram number<b> 1. or 6.</b> from Moravske Namesti and <b>get off at Hrnicirska</b> tram station and you are almost at Develoer Conference(5 min walk from there), or you can&nbsp;take&nbsp;<b>trolley bus number 32</b>. from trolley station<b>Smetanova&nbsp;</b>(nearest station on main Kounicova street)<b>&nbsp;</b>and to get off at&nbsp;<b>Botanicka,&nbsp;</b>which is (2 min approximately) from Faculty of Informatics MUNI.]]></description>
+    <description><![CDATA[<b>Hotel Slovan</b>, the best way to get to Developer Conference from here by public transportation is to take&nbsp;<b>tram number 1</b>. from tram station Moravske Namesti and <b>get off at Semilasso</b>.]]></description>
     <styleUrl>#lodging_3stars</styleUrl>
     <Point>
       <coordinates>16.607016,49.201839,0.000000</coordinates>
     </Point>
   </Placemark>
-  <Placemark>
-    <name>Hotel Pegas and brewery</name>
-    <description><![CDATA[Very good pub with its own brewery, very good beer and also traditional Czech beer food. There is also a hotel but not very cheap one.<div>opening hours:</div><div>Monday - Saturday: 09:00 - 24:00</div><div>Sunday: 11:00 - 23:00<br>&nbsp;</div><div><a href="http://brnorestauracepivnice.hotelpegas.cz/presentace/" target="_blank">photos</a></div>]]></description>
-    <styleUrl>#bar</styleUrl>
-    <Point>
-      <coordinates>16.607241,49.196217,0.000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Steak House Modre ruze - smoking</name>
-    <description><![CDATA[<div dir="ltr">Steak house, very good beer and meat, traditional Czech beer food. Probably the longest opening hours for pub and serving hot meals, since they serve it till 2:30 am.</div><div dir="ltr">Very rich offer of various beers, there is always plenty of people.<br><a href="http://www.hospodyvbrne.cz/modra-ruze" target="_blank">photos</a><br>&nbsp;<br>Opening hours:<br>Monday - Sunday: 15:00 - 03:00</div>]]></description>
-    <styleUrl>#steakhouse</styleUrl>
-    <Point>
-      <coordinates>16.605288,49.199772,0.000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>McDonalds</name>
-    <description><![CDATA[]]></description>
-    <styleUrl>#fastfood</styleUrl>
-    <Point>
-      <coordinates>16.607714,49.194866,0.000000</coordinates>
-    </Point>
-  </Placemark>
+
   <Placemark>
     <name>Hamburgers</name>
     <description><![CDATA[Something like Mc Donalds but this one has little less quality, but what is important is open <b>24/7</b>]]></description>
@@ -519,30 +434,6 @@
     <styleUrl>#hospital</styleUrl>
     <Point>
       <coordinates>16.615271,49.197746,0.000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>U bileho baranka - non smoking restaurant/pub</name>
-    <description><![CDATA[<div><span style="font-size:10pt">This restaurant is suited in the ground floor of&nbsp;secession building, built in 1906. &nbsp;The beer was offered here during Austro-Hungarian Empire already. This restaurant was renovated in 2010 and has </span><b style="font-size:10pt">interwar style of interior and menu.&nbsp;</b></div><div><a href="http://www.ubilehoberanka.cz/?nav=fotogalerie" target="_blank">photos</a></div><div><br>&nbsp;</div><div>Opening hours:</div><div>Monday - Friday: 11:00 to 24:00</div><div>Saturday - Sunday: 12:00 to 24:00</div>]]></description>
-    <styleUrl>#bar</styleUrl>
-    <Point>
-      <coordinates>16.603764,49.209137,0.000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Comodo bar restaurant - non smoking</name>
-    <description><![CDATA[Good restaurant with tasty food and free WIFI.&nbsp;<div><a href="http://www.comodorestaurant.cz/" target="_blank">photos</a></div><div><br>&nbsp;</div><div>Opening hours:</div><div>Monday - Saturday: 09:00 - 24:00</div><div>Sunday: 11:00 - 23:00</div>]]></description>
-    <styleUrl>#restaurant</styleUrl>
-    <Point>
-      <coordinates>16.602091,49.210140,0.000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Selepeva No 1 - club/restaurant</name>
-    <description><![CDATA[<font face="arial">Legendary club, it is the oldest active club in Czech Republic. It has also very good restaurant with very tasty food. S</font><span style="font-family:arial, sans-serif;white-space:nowrap;background-color:rgb(255, 255, 255)">urroundings is not so attractive, but good meal is worth tasting.</span><div><font face="arial, sans-serif"><span style="white-space:nowrap">There are also parties in the club,&nbsp;</span></font></div><div><font face="arial, sans-serif"><span style="white-space:nowrap">like 18 February, there is oldies party.</span></font></div><div><font face="arial, sans-serif"><span style="white-space:nowrap"><a href="http://www.selepova.cz/fotogalerie/4" target="_blank">photos</a></span></font></div><div><font face="arial, sans-serif"><br></font></div><div><font face="arial, sans-serif"><a href="http://www.selepova.cz/jidelni-listek" target="_blank">menu in english</a></font></div><div><font face="arial, sans-serif"><br></font></div>]]></description>
-    <styleUrl>#restaurant</styleUrl>
-    <Point>
-      <coordinates>16.593813,49.212708,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -801,14 +692,6 @@ Visitors can attend a permanent exhibition whose part is a tour of the Capuchin 
     <styleUrl>#church</styleUrl>
     <Point>
       <coordinates>16.609628,49.191305,0.000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
-    <name>Pub U Dřeváka</name>
-    <description><![CDATA[<div dir="ltr">Non-smoking pub concentrating primarily on a quality Czech cuisine in a modern style. Tasty food and beer tapped to 'surface'.</div><br>Opening hours:&nbsp;</div><div dir="ltr">Monday - Thursday: 11:00 - 24:00</div><div dir="ltr">Friday - Saturday: 11:00 - 1:00</div><div dir="ltr">Sunday: 11:00 - 24:00</div><div><br><a href="http://www.udrevaka.com/" target="_blank">web page</a></div>]]></description>
-    <styleUrl>#bar</styleUrl>
-    <Point>
-      <coordinates>16.6008944,49.2090944,0.000000</coordinates>
     </Point>
   </Placemark>
 </Document>
