@@ -293,10 +293,45 @@
     <description><![CDATA[<div dir="ltr">Tram number 1 from main train station stops here.</div>]]></description>
     <styleUrl>#tramway</styleUrl>
     <Point>
+      <coordinates>16.6025833,49.2106144,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name>Hrnčířská tram station</name>
+    <description><![CDATA[<div dir="ltr">Station near Avanti hotel. To go to the venue, use tram no. 1 to Semilasso station.</div>]]></description>
+    <styleUrl>#tramway</styleUrl>
+    <Point>
       <coordinates>16.5927217,49.2273931,0.000000</coordinates>
     </Point>
   </Placemark>
   
+  <Placemark>
+    <name>Hudcova tram station</name>
+    <description><![CDATA[<div dir="ltr">Station near Vista hotel. To go to the venue, use tram no. 1 to Semilasso station.</div>]]></description>
+    <styleUrl>#tramway</styleUrl>
+    <Point>
+        <coordinates>16.5870653,49.2357269,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name>Hotel Avanti</name>
+    <description><![CDATA[<div>Hotel Avanti is located 5 tram stops from the venue (approx 6 minutes ride) -- use tram no. 1 from Hrnčířská station to Semilasso (direction Řečkovice).</div><div><br>&nbsp;</div><div><a href="http://www.brno-hotel-avanti.eu/" target="_blank">web page</a></div>]]></description>
+    <styleUrl>#lodging_4stars</styleUrl>
+    <Point>
+      <coordinates>16.604706,49.212959,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name>Hotel Vista</name>
+    <description><![CDATA[<div>Hotel Avanti is located 2 tram stops from the venue (approx 3 minutes ride) -- use tram no. 1 from Hudcova station to Semilasso (direction Ečerova).</div><div><br>&nbsp;</div><div><a href="http://www.vista-hotel.cz/homepage//" target="_blank">web page</a></div>]]></description>
+    <styleUrl>#lodging_3stars</styleUrl>
+    <Point>
+      <coordinates>16.5823322,49.2361561,0.000000</coordinates>
+    </Point>
+  </Placemark>
   
   <Placemark>
     <name>Main train station</name>
