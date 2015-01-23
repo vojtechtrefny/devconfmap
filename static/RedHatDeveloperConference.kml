@@ -293,7 +293,7 @@
     <description><![CDATA[<div dir="ltr">Tram number 1 from main train station stops here.</div>]]></description>
     <styleUrl>#tramway</styleUrl>
     <Point>
-      <coordinates>16.6025833,49.2106144,0.000000</coordinates>
+      <coordinates>16.5927217,49.2273931,0.000000</coordinates>
     </Point>
   </Placemark>
   
@@ -302,7 +302,7 @@
     <description><![CDATA[<div dir="ltr">Station near Avanti hotel. To go to the venue, use tram no. 1 to Semilasso station.</div>]]></description>
     <styleUrl>#tramway</styleUrl>
     <Point>
-      <coordinates>16.5927217,49.2273931,0.000000</coordinates>
+      <coordinates>16.6025833,49.2106144,0.000000</coordinates>
     </Point>
   </Placemark>
   
